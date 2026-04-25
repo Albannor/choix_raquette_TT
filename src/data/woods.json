@@ -1,0 +1,22 @@
+[
+  {
+    "id": "tibhar-iv-l",
+    "name": "Tibhar IV-L",
+    "speed": 60,
+    "control": 86,
+    "stiffness": 44,
+    "weight": 85,
+    "feel": "medium",
+    "tags": ["allround", "secure", "progression"]
+  },
+  {
+    "id": "tibhar-iv-l-balsa",
+    "name": "Tibhar IV-L Balsa",
+    "speed": 67,
+    "control": 82,
+    "stiffness": 36,
+    "weight": 78,
+    "feel": "soft",
+    "tags": ["light", "tempo", "allround+"]
+  }
+]

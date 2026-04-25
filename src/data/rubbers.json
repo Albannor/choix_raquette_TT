@@ -1,0 +1,68 @@
+[
+  {
+    "id": "tibhar-vari-spin",
+    "name": "Tibhar Vari Spin",
+    "speed": 52,
+    "spin": 72,
+    "control": 90,
+    "hardness": 38,
+    "catapult": 28,
+    "style": "linear",
+    "tags": ["controle", "rotation", "formation"]
+  },
+  {
+    "id": "xiom-vega-pro",
+    "name": "Xiom Vega Pro",
+    "speed": 83,
+    "spin": 88,
+    "control": 70,
+    "hardness": 47,
+    "catapult": 62,
+    "style": "dynamic",
+    "tags": ["offensif", "rotation-lourde", "engagement"]
+  },
+  {
+    "id": "xiom-vega-europe",
+    "name": "Xiom Vega Europe",
+    "speed": 75,
+    "spin": 82,
+    "control": 78,
+    "hardness": 42,
+    "catapult": 58,
+    "style": "dynamic",
+    "tags": ["offensif-controle", "demarrage", "polyvalent"]
+  },
+  {
+    "id": "yasaka-rakza-7",
+    "name": "Yasaka Rakza 7",
+    "speed": 80,
+    "spin": 86,
+    "control": 74,
+    "hardness": 45,
+    "catapult": 55,
+    "style": "linear",
+    "tags": ["topspin", "arc", "polyvalent"]
+  },
+  {
+    "id": "tibhar-evolution-mx-p",
+    "name": "Tibhar Evolution MX-P",
+    "speed": 90,
+    "spin": 90,
+    "control": 64,
+    "hardness": 48,
+    "catapult": 68,
+    "style": "dynamic",
+    "tags": ["tres-offensif", "puissance", "exigeant"]
+  },
+  {
+    "id": "butterfly-rozena",
+    "name": "Butterfly Rozena",
+    "speed": 74,
+    "spin": 80,
+    "control": 82,
+    "hardness": 40,
+    "catapult": 50,
+    "style": "dynamic",
+    "tags": ["tolerant", "offensif-modere", "fiable"]
+  }
+]

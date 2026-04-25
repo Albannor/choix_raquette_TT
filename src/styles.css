@@ -1,0 +1,104 @@
+:root {
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  color: #1f2937;
+  background: #f5f6f8;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 2rem 1rem 3rem;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin-top: 0;
+}
+
+.intro {
+  max-width: 76ch;
+  color: #3f4754;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #dfe3ea;
+  border-radius: 12px;
+  padding: 1rem 1.1rem;
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.06);
+}
+
+.grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.two-col {
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  font-size: 0.95rem;
+}
+
+select,
+input[type='range'] {
+  width: 100%;
+}
+
+.range-value {
+  color: #4b5563;
+  font-size: 0.85rem;
+}
+
+.results-grid {
+  margin-top: 1.2rem;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+}
+
+.recommendation header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.badge {
+  padding: 0.2rem 0.5rem;
+  border-radius: 999px;
+  border: 1px solid #ccd4e0;
+  font-size: 0.84rem;
+}
+
+.config-list {
+  list-style: none;
+  margin: 0.8rem 0;
+  padding: 0;
+  display: grid;
+  gap: 0.3rem;
+}
+
+.muted {
+  color: #556070;
+}
+
+.footnote {
+  border-top: 1px dashed #e0e5ed;
+  padding-top: 0.7rem;
+  margin-bottom: 0;
+}
